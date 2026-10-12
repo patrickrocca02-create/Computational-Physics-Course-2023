@@ -1,0 +1,2 @@
+ Per plottare il confronto tra i tre grafici (exact,h2,h4) eseguire:
+ plot "derivata_seno.tsv" using 1:2 with lines, "derivata_seno.tsv" using 1:3 with lines, "derivata_seno.tsv" using 1:4 with lines
